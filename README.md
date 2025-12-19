@@ -1,4 +1,4 @@
-# Node.js Microservice with MongoDB (Full Setup + CRUD)
+# Node.js Microservice with MongoDB (user-service-mongo)
 
 This repository demonstrates how to **integrate MongoDB into a Node.js microservice**, covering **full database setup, schema modeling, and complete CRUD operations** following real-world microservices best practices.
 
